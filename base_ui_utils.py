@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 #
-# Copyright (c) 2020,2021 Oracle and/or its affiliates.
-#
+
 from time import sleep
 
 from selenium import webdriver
